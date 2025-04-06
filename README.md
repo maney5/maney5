@@ -6,6 +6,7 @@
 
 ###
 
+<h3 align="left">Languages I use:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
@@ -24,4 +25,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
 </div>
 
-###
+<h4 align="left">Contact me via <a href = "https://www.linkedin.com/in/manuel-flores-1488a1294/">LinkedIn</a> or <a href="mailto:flores.meno03@gmail.com">Email</a>!</h4>
